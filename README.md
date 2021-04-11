@@ -2,7 +2,7 @@
 
 🤔🤔 My job is Graphic Design and UX/UI 🤔
 
-!Mr Somphong Chanthanmixay 😄 (https://scontent.fvte4-1.fna.fbcdn.net/v/t1.6435-9/134951635_1353609625005415_2637201696707840910_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHTFOgHHSpxkKY46Rx7JuLo-Nr1U474O7f42vVTjvg7t0PxYzwtGKhsGtSVFO_v6XBrk3EUAUMmYGcmR3bdTLxu&_nc_ohc=RvOQS4R7nUMAX_2hHIW&_nc_ht=scontent.fvte4-1.fna&oh=725c2a1870d8bbdadfbd1331c9e07cee&oe=60975E8B)
+! Mr Somphong Chanthanmixay 😄 (https://scontent.fvte4-1.fna.fbcdn.net/v/t1.6435-9/134951635_1353609625005415_2637201696707840910_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHTFOgHHSpxkKY46Rx7JuLo-Nr1U474O7f42vVTjvg7t0PxYzwtGKhsGtSVFO_v6XBrk3EUAUMmYGcmR3bdTLxu&_nc_ohc=RvOQS4R7nUMAX_2hHIW&_nc_ht=scontent.fvte4-1.fna&oh=725c2a1870d8bbdadfbd1331c9e07cee&oe=60975E8B)
 
 <!--
 **50Mp/50Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
