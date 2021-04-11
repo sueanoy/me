@@ -1,5 +1,6 @@
 ### Hi there 👋
-i am 50Mp
+##i am 50Mp ⚡
+🤔🤔 My job is Graphic Design and UX/UI 🤔
 
 <!--
 **50Mp/50Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
