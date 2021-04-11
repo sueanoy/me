@@ -1,5 +1,5 @@
-### Hi there 👋
-##i am 50Mp ⚡
+### i am 50Mp 👋⚡
+
 🤔🤔 My job is Graphic Design and UX/UI 🤔
 
 <!--
