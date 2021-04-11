@@ -7,7 +7,7 @@
 
 ### Get in touch
 
-⚡[facebook]:https://www.facebook.com/50mphong
+⚡[facebook](https://www.facebook.com/50mphong)
 
 <!--
 **50Mp/50Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
