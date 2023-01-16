@@ -3,9 +3,9 @@
  </div>
 <h1 align="center"> Hi 👋, I'm Somphong chnathamixay</h1>
 <h4 align="center">(Suea noy)</h4>
-       <p align="left">My job is Graphic Design and UX/UI Designe <p>
+       <p align="center">Awals looking to learn skill, toke on  extra responsibilities, and grow professionally <p>
        
-       Awals looking to learn skill, toke on  extra responsibilities, and grow professionally 
+       
        
 #### ⚙️ **SKILLS**
 - Adobe Protoshop              
