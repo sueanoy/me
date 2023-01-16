@@ -1,5 +1,5 @@
-![Mr Somphong Chanthanmixay 😄](https://avatars.githubusercontent.com/u/36956612?s=40&v=4)
-### 👋 Hi! i am Suea noy 
+
+# Somphong chnathamixay
 My job is Graphic Design and UX/UI Designe
 
        Awals looking to learn skill, toke on
@@ -13,19 +13,32 @@ My job is Graphic Design and UX/UI Designe
        - Sketup 
        - Setup OBS Live Stream
        - Suport Computer network
-### 💼 Work experience
+       ...
+       
+### 💼 WORK EXPERIEMCE 
       - 10/2019-10/2020 : Jceas company   
-              Designer 3D, Design character game , IT Suport
+          Designer 3D, Design character game , IT Suport
     
-       - 10/2020-10/2022 : YesPls company  
-              Graphic Design officer, Design artwork social media, Live stream...
+      - 10/2020-10/2022 : YesPls company  
+          Graphic Design officer, Design artwork social media, Live stream...
               
-       - 10/2022-presion : inseeHub Express
-              Graphic Design officer, Design artwork social media, Live stream....
+      - 10/2022-presion : inseeHub Express
+          Graphic Design officer, Design artwork social media, Live stream....
+### 🎓 EDUCATION BACKGROUND
+       Bachelor of Engineer, Major in Information technology(IT)
+       National University of laos (NUoL) 2015-2029
+       GPA 3.0
+       
+### ☎ CONTACT
+     Email   : somphongchanthamixay01@gmail.com
+     WhatsApp: +856 02 92824 227
+    Tell     : +856 02 29798 435
 
-### Get in touch link
-
-    [facebook](https://www.facebook.com/50mphong)
+    facebook :
+    IG       :
+    WeChat   :
+    github   : https://github.com/50Mp
+    
 
 <!--
 **50Mp/50Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
