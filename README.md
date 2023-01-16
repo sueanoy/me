@@ -31,7 +31,7 @@
 
        Graphic Design officer, Design artwork social media, Live stream....
 #### 🎓 **EDUCATION BACKGROUND**
-       <p>Bachelor of Engineer, Major in Information technology(IT)
+       Bachelor of Engineer, Major in Information technology(IT)
        National University of laos (NUoL) 2015-2029
        GPA 3.0
        
