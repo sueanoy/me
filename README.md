@@ -18,13 +18,10 @@ My job is Graphic Design and UX/UI Designe
               Designer 3D, Design character game , IT Suport
     
        - 10/2020-10/2022 : YesPls company  
-              Graphic Design officer, Design artwork social media, Live stream
+              Graphic Design officer, Design artwork social media, Live stream...
               
        - 10/2022-presion : inseeHub Express
               Graphic Design officer, Design artwork social media, Live stream....
-       
-
-
 
 ### Get in touch link
 
