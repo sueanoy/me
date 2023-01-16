@@ -20,7 +20,7 @@ My job is Graphic Design and UX/UI Designe
        - 10/2020-10/2022 : YesPls company  
               Graphic Design officer, Design artwork social media, Live stream
               
-       - 10/2022-presion : YesPls inseeHub 
+       - 10/2022-presion : inseeHub Express
               Graphic Design officer, Design artwork social media, Live stream....
        
 
