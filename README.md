@@ -1,9 +1,9 @@
-
-# Somphong chnathamixay
-My job is Graphic Design and UX/UI Designe
-
-> Awals looking to learn skill, toke on
-extra responsibilities, and grow professionally
+<h1 align="center">Somphong chnathamixay</h1>
+<h4 align="center">(Suea noy)</h4>
+       <p align="left">My job is Graphic Design and UX/UI Designe <p>
+       
+       Awals looking to learn skill, toke on  extra responsibilities, and grow professionally 
+       
 #### ⚙️ **SKILLS**
 - Adobe Protoshop              
 - Adobe illustrator              
@@ -17,15 +17,18 @@ extra responsibilities, and grow professionally
        
 #### 💼 **WORK EXPERIEMCE** 
 - **10/2019-10/2020 :** Jceas company   
- > Designer 3D, Design character game , IT Suport
+
+       Designer 3D, Design character game , IT Suport
     
 - **10/2020-10/2022 :** YesPls company  
- > Graphic Design officer, Design artwork social media, Live stream...
+ 
+       Graphic Design officer, Design artwork social media, Live stream...
               
 - **10/2022-presion :** inseeHub Express
- > Graphic Design officer, Design artwork social media, Live stream....
+
+       Graphic Design officer, Design artwork social media, Live stream....
 #### 🎓 **EDUCATION BACKGROUND**
-       Bachelor of Engineer, Major in Information technology(IT)
+       <p>Bachelor of Engineer, Major in Information technology(IT)
        National University of laos (NUoL) 2015-2029
        GPA 3.0
        
