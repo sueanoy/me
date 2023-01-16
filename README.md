@@ -1,3 +1,6 @@
+<div align="center" >
+       <image src="https://github.com/50Mp/me/blob/main/images%403x.png">
+ </div>
 <h1 align="center"> Hi 👋, I'm Somphong chnathamixay</h1>
 <h4 align="center">(Suea noy)</h4>
        <p align="left">My job is Graphic Design and UX/UI Designe <p>
