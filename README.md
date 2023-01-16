@@ -2,34 +2,34 @@
 # Somphong chnathamixay
 My job is Graphic Design and UX/UI Designe
 
-       Awals looking to learn skill, toke on
-       extra responsibilities, and grow professionally
-### ⚙️ Skills
-       - Adobe Protoshop              
-       - Adobe illustrator              
-       - Adobe After Effect            
-       - Adobe XD
-       - Adobe Figma  
-       - Sketup 
-       - Setup OBS Live Stream
-       - Suport Computer network
-       ...
+Awals looking to learn skill, toke on
+extra responsibilities, and grow professionally
+#### ⚙️ Skills
+- Adobe Protoshop              
+- Adobe illustrator              
+- Adobe After Effect            
+- Adobe XD
+- Adobe Figma  
+- Sketup 
+- Setup OBS Live Stream
+- Suport Computer network
+- ...
        
-### 💼 WORK EXPERIEMCE 
-      - 10/2019-10/2020 : Jceas company   
-          Designer 3D, Design character game , IT Suport
+#### 💼 WORK EXPERIEMCE 
+- 10/2019-10/2020 : Jceas company   
+ Designer 3D, Design character game , IT Suport
     
-      - 10/2020-10/2022 : YesPls company  
-          Graphic Design officer, Design artwork social media, Live stream...
+- 10/2020-10/2022 : YesPls company  
+ Graphic Design officer, Design artwork social media, Live stream...
               
-      - 10/2022-presion : inseeHub Express
-          Graphic Design officer, Design artwork social media, Live stream....
-### 🎓 EDUCATION BACKGROUND
+- 10/2022-presion : inseeHub Express
+ Graphic Design officer, Design artwork social media, Live stream....
+#### 🎓 EDUCATION BACKGROUND
        Bachelor of Engineer, Major in Information technology(IT)
        National University of laos (NUoL) 2015-2029
        GPA 3.0
        
-### ☎ CONTACT
+#### ☎ CONTACT
      Email   : somphongchanthamixay01@gmail.com
      WhatsApp: +856 02 92824 227
     Tell     : +856 02 29798 435
