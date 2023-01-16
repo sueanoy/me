@@ -1,5 +1,5 @@
 <div align="center" >
-       <image src="https://github.com/50Mp/me/blob/main/images%403x.png">
+       <image src="https://github.com/50Mp/me/blob/main/image%20250px.png">
  </div>
 <h1 align="center"> Hi 👋, I'm Somphong chnathamixay</h1>
 <h4 align="center">(Suea noy)</h4>
