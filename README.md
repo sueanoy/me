@@ -43,7 +43,7 @@
     facebook :
     IG       :
     WeChat   :
-    github   : https://github.com/50Mp
+    github   : 
     
 
 <!--
